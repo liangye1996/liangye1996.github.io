@@ -2,14 +2,22 @@
 == Publication 
 
 == Journal Papers
-
-
+. *Ye Liang*, J Yang, L Zhang, et al. Switched Control Design for Quadrotor in Target Tracking with Complex Intermittent Measurements. */Journal of Guidance, Control, and Dynamics/*, 2023, 46(1): 206-214.
+. L Zhang, *Ye Liang*, Y Li, et al. Switched Control of Fixed-wing Aircraft for Continuous Airdrop of Heavy Payloads. */Journal of Guidance, Control, and Dynamics/*, 2023, 46(9): 1826-1833.
+. *Ye Liang*, Y Zhu, J Yang, et al. Tracking Control of Quadrotor with Intermittent Target Measurements: A Stochastic Switched Systems Approach. */IEEE Trans. Aerospace and Electronic Systems/*, 2023, 59(5): 5302-5313.
+. *Ye Liang*, S Lu, R Weng, et al. Unsupervised Noise-robust Feature Extraction for Aerial Image Classification. */Science China Technological Sciences/*, 2020, 63(8): 1406-1415.
+. Y Han, *Ye Liang*, L Zhang, et al. Bumpless Transfer Switched Control of Aircraft for Heavy Payload Dropping Missions. */Aerospace Science and Technology/*, accept.
+. H Wang, J Yang, *Ye Liang*, et al. Guaranteed Cost Control of Rigid‐body Attitude Systems under Control Saturation. International Journal of Robust and Nonlinear Control, 2021, 31(6): 2393-2410.
+. R Zhang, J Yang, *Ye Liang*, et al. Navigation for Autonomous Vehicles via Fast-Stable and Smooth Reinforcement Learning. */Science China Technological Sciences/*, 2023. DOI: 10.1007/s11431-023-2483-x.
+. Y Li, L Zhang, B Cai, *Ye Liang*. Path Planning for Composite UAVs via Fermat Point-Based Grouping Particle Swarm Optimization. */Aerospace Science and Technology/*, accepted
+    
 == Conference Proceedings
 
-
-
-
-
+. *Ye Liang*, L Zhang, J Yang, et al. Smooth Switched Flight Control Design of Fixed-wing Aircraft for Heavy Payloads Airdrop. */Chinese Control and Decision Conference/*, accept.
+. *Ye Liang*, Z Lin, T Gao, et al. Attitude Tracking of Near-ground Quadrotor: A Switched Linear Parameter Varying Approach. */Chinese Control and Decision Conference/*, accept.
+. Y Han, *Ye Liang*, Y Li, et al. Bumpless Transfer Control for Multi-Equilibrium Switched Systems. IEEE Chinese Control and Decision Conference 2024, accept. (as assistant supervisor to Y Han)
+. B Cai, K Xu, S Lu, *Ye Liang*, L Zhang. Analysis and Synthesis of Switched Linear Systems with Random Mode-Dependent Sojourn-Time. 2023 */IEEE Conference on Decision and Control/* (CDC 2023), accept.
+. R Zhang, J Yang, *Ye Liang*, et al. SSRL: A Safe and Smooth Reinforcement Learning Approach for Collision Avoidance in Navigation [C]. 2023 */Conference on Fully Actuated System Theory and Applications/* (CFASTA 2023). accept.
 
 
 
